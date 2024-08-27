@@ -1,0 +1,9 @@
+[submodule "foundry/lib/openzeppelin-contracts"]
+	path = foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "foundry/lib/chainlink"]
+	path = foundry/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "foundry/lib/ccip"]
+	path = foundry/lib/ccip
+	url = https://github.com/smartcontractkit/ccip

@@ -1,6 +1,6 @@
 import { ethers, run, network } from "hardhat";
 import { SupportedNetworks, getCCIPConfig } from "../../ccip.config";
-import { createOrUpdateConfigFile } from "../helper";
+import { createOrUpdateConfigFile } from "../test/helper";
 
 /**
  * Deploys and verifies the Sender contract on a specified network.
